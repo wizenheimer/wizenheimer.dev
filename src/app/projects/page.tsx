@@ -11,8 +11,6 @@ export default async function ProjectsPage() {
 		(project) => project.stargazers_count > 0
 	);
 
-	console.log(allProjects);
-
 	const sorted = allProjects.sort((a, b) => b.created_at - a.created_at);
 
 	return (
