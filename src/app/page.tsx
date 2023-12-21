@@ -4,6 +4,7 @@ import Link from "next/link";
 const navigation = [
 	{ name: "Projects", href: "/projects" },
 	// { name: "Blog", href: "/blog" }, // TODO:
+	{ name: "Teardowns", href: "/teardowns" },
 	{ name: "Contact", href: "/contact" },
 ];
 
