@@ -1,0 +1,44 @@
+{{ define "main" }}
+
+
+<header>
+  <pre>
+⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣦⠀
+⠀⠀⠀⠀⣰⣿⡟⢻⣿⡟⢻⣧
+⠀⠀⠀⣰⣿⣿⣇⣸⣿⣇⣸⣿
+⠀⠀⣴⣿⣿⣿⣿⠟⢻⣿⣿⣿
+⣠⣾⣿⣿⣿⣿⣿⣤⣼⣿⣿⠇   
+⢿⡿⢿⣿⣿⣿⣿⣿⣿⣿⡿
+⠀⠀⠈⠿⠿⠋⠙⢿⣿⡿⠁⠀
+</pre>
+  <!-- {{ partial "searchbox.html" }} -->
+  <h1>{{ $.Site.Title }} </h1>
+  {{- if $.Site.Params.theme_config.show_description -}}
+  <p>{{ $.Site.Params.description }}</p>
+  {{- end -}}
+
+</header>
+
+
+{{ .Content }}
+{{ partial "menu_item.html" (dict "context" . "collection" $.Site.Data.menu.entries) }}
+
+
+<h3>#hashtags</h3>
+<ul>
+  {{ $tagLimit := 5 }}
+  {{ $taxonomies := $.Site.Taxonomies.tags.ByCount }}
+  {{ range first $tagLimit $taxonomies }}
+  <li>
+    <a href="{{ .Page.RelPermalink }}">{{ .Page.Title | lower }}</a> ({{ .Count }})
+  </li>
+  {{ else }}
+  <li>no tags found.</li>
+  {{ end }}
+  {{ if gt (len $.Site.Taxonomies.tags) $tagLimit }}
+  <li><a href="/tags">see all tags...</a></li>
+  {{ end }}
+  <!-- <li><a href="{{ .Site.BaseURL }}index.xml">rss</a></li> -->
+</ul>
+<br>
+{{ end }}
