@@ -8,24 +8,29 @@
     body {
       background-color: black;
       color: #c7c5c5;
-      font-family: 'Mono', sans-serif; /* Gunakan font Mono */
+      font-family: 'Mono', sans-serif;
+      /* Gunakan font Mono */
     }
 
     a {
-      color: #48a874; /* Warna default tautan */
+      color: #48a874;
+      /* Warna default tautan */
       text-decoration: none;
     }
 
     a:hover {
-      color: darkgray; /* Warna tautan saat di-hover */
+      color: darkgray;
+      /* Warna tautan saat di-hover */
     }
 
     a:visited {
-      color: #48a874; /* Warna tautan yang sudah diklik */
+      color: #48a874;
+      /* Warna tautan yang sudah diklik */
     }
 
     .fa {
-      font-family: "Font Awesome 6 Free", sans-serif; /* Font untuk ikon */
+      font-family: "Font Awesome 6 Free", sans-serif;
+      /* Font untuk ikon */
       font-weight: 30px;
     }
   </style>
@@ -36,14 +41,14 @@
 
   <!-- Dynamic Metadata -->
   {{ if .IsPage }}
-    <meta name="description" content="{{ .Summary }}">
+  <meta name="description" content="{{ .Summary }}">
   {{ end }}
 
   <title>
     {{ if not .IsHome }}
-      {{ .Title }}
+    {{ .Title }}
     {{ else }}
-      {{ $.Site.Title }}
+    {{ $.Site.Title }}
     {{ end }}
   </title>
 
@@ -58,23 +63,23 @@
 
   <!-- MathJax -->
   {{ if .Params.mathjax }}
-    {{ partial "mathjax.html" . }}
+  {{ partial "mathjax.html" . }}
   {{ end }}
 
   <!-- Metadata for Social Media -->
   {{- with .Summary }}
-    <meta name="description" content="{{ . }}">
-    <meta property="og:description" content="{{ . }}">
+  <meta name="description" content="{{ . }}">
+  <meta property="og:description" content="{{ . }}">
   {{- else }}
-    <meta name="description" content="Default description for the site.">
+  <meta name="description" content="Default description for the site.">
   {{- end }}
 
   {{- with .Params.thumb }}
-    <meta property="og:image" content="{{ . }}">
-    <meta name="twitter:image" content="{{ . }}">
+  <meta property="og:image" content="{{ . }}">
+  <meta name="twitter:image" content="{{ . }}">
   {{- else }}
-    <meta property="og:image" content="/path/to/default-image.jpg">
-    <meta name="twitter:image" content="/path/to/default-image.jpg">
+  <meta property="og:image" content="/path/to/default-image.jpg">
+  <meta name="twitter:image" content="/path/to/default-image.jpg">
   {{- end }}
 
   <meta property="og:type" content="article">

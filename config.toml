@@ -1,6 +1,9 @@
 ignoreLogs = ['warning-goldmark-raw-html']
 
 [module]
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
   [module.hugoVersion]
     extended=true
     min = "0.41.0"
