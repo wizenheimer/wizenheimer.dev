@@ -29,6 +29,15 @@ show_more = true
 show_more_text = "See archive..."
 show_more_url = "posts"
 
+[[entries]]
+title = "Projects"
+
+[entries.post_list]
+section = "projects"
+limit = 7
+show_more = true
+show_more_text = "See all projects..."
+show_more_url = "projects"
 
 [[entries]]
 title = "Teardowns"
@@ -39,16 +48,6 @@ limit = 5
 show_more = true
 show_more_text = "See all teardowns..."
 show_more_url = "teardowns"
-
-[[entries]]
-title = "Projects"
-
-[entries.post_list]
-section = "projects"
-limit = 5
-show_more = true
-show_more_text = "See all projects..."
-show_more_url = "projects"
 
 
 #[[entries]]
