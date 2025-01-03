@@ -57,11 +57,9 @@
 
   <!-- Stylesheet -->
   {{ $options := (dict "outputStyle" "compressed" "enableSourceMap" (not hugo.IsProduction)) }}
-  {{ $scss := resources.Get "css/main.scss" }}
-  {{ if $scss }}
-  {{ $style := $scss | css.Sass (dict "outputStyle" "compressed") | minify }}
-  <link rel="stylesheet" href="{{ $style.RelPermalink }}">
-  {{ end }}
+  {{ $sass := resources.Get "css/main.scss" }}
+  {{ $style := $sass | css.Sass $options | resources.Fingerprint "sha512" }}
+  <link rel="stylesheet" href="{{ $style.Permalink | relURL }}" integrity="{{ $style.Data.Integrity }}" />
 
   <!-- MathJax -->
   {{ if .Params.mathjax }}
