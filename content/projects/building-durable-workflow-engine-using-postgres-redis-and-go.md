@@ -1,7 +1,7 @@
 ---
 title: "Building Durable Workflow Engine Using Postgres, Redis and Go"
 date: 2025-01-02
-draft: true
+tags: [go, redis, postgres, workflow]
 ---
 
 Let's be real - most background job systems are garbage. They work fine until your server hiccups, then poof! Your jobs vanish into the void and you're left wondering why half your data is missing. After the third time I woke up at 3 AM to fix my competitor monitoring tool because some critical scraper job had silently died, I decided enough was enough.

@@ -1,7 +1,7 @@
 ---
 title: "Zero Cost Inference"
 date: 2025-04-02T02:23:42+05:30
-draft: true
+tags: [inference, typescript, transformers.js]
 ---
 
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/6461bd2d846a6c8c83055a48/576ZghJyhCwxqyDiLbodQ.png)
