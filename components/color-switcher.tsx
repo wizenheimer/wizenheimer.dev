@@ -13,7 +13,7 @@ import {
 import { useKeyboardShortcut } from "@/hooks/keyboard-shortcuts";
 
 export function ColorSwitcher() {
-  const DEFAULT_THEME: ThemeColor = "red";
+  const DEFAULT_THEME: ThemeColor = "purple";
 
   const setThemeColor = useCallback((color: ThemeColor) => {
     const root = document.documentElement;
