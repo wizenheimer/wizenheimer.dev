@@ -1,0 +1,177 @@
+[
+  {
+    "text": "browser based ml inference with openai compliant api. run models like deepseek, llama 3.2, nomicembed, kokorotts, and more directly in the browser without server dependencies.",
+    "author": "tinylm",
+    "title": "browser-based ml inference engine",
+    "company": "wizenheimer",
+    "url": "https://github.com/wizenheimer/tinylm"
+  },
+  {
+    "text": "run tts models like kokoro right inside your browser using tinylm. high-quality text-to-speech synthesis without server infrastructure or api dependencies.",
+    "author": "tinysonnet",
+    "title": "browser-based text-to-speech",
+    "company": "wizenheimer",
+    "url": "https://github.com/wizenheimer/tinysonnet"
+  },
+  {
+    "text": "generate embeddings right inside your browser with nomicembed integration. client-side semantic search and similarity matching without external api calls.",
+    "author": "tinyembed",
+    "title": "browser-based embedding generation",
+    "company": "wizenheimer",
+    "url": "https://github.com/wizenheimer/tinyembed"
+  },
+  {
+    "text": "run deepseekr1, llama 3.2, and more right inside your browser with tinylm. full-featured chat interface for local ai model inference without server requirements.",
+    "author": "tinychat",
+    "title": "browser-based ai chat interface",
+    "company": "wizenheimer",
+    "url": "https://github.com/wizenheimer/tinychat"
+  },
+  {
+    "text": "ocr & document extraction using vision models for intelligent document processing. advanced computer vision pipeline for extracting structured data from unstructured documents.",
+    "author": "zerox",
+    "title": "vision-based document extraction",
+    "company": "getomni-ai",
+    "url": "https://github.com/getomni-ai/zerox"
+  },
+  {
+    "text": "transform unstructured data into synthetic datasets using advanced ml techniques. enables privacy-preserving data generation for training and testing purposes.",
+    "author": "cyyrus",
+    "title": "synthetic data generation",
+    "company": "wizenheimer",
+    "url": "https://github.com/wizenheimer/cyyrus"
+  },
+  {
+    "text": "client-side vector database implementation in typescript with hnsw indexing, perfect for browser-based semantic search and similarity matching applications.",
+    "author": "tinkerbird",
+    "title": "client-side vector database",
+    "company": "wizenheimer",
+    "url": "https://github.com/wizenheimer/tinkerbird"
+  },
+  {
+    "text": "open source competitive intelligence infrastructure for teams. automated data collection, analysis, and reporting to stay ahead of market competition.",
+    "author": "byrd",
+    "title": "competitive intelligence platform",
+    "company": "wizenheimer",
+    "url": "https://github.com/wizenheimer/byrd"
+  },
+  {
+    "text": "kubernetes native chaos engineering toolkit reimplementing netflix's chaos monkey. introduces controlled failures to test system resilience and fault tolerance.",
+    "author": "cascade",
+    "title": "chaos engineering toolkit",
+    "company": "wizenheimer",
+    "url": "https://github.com/wizenheimer/cascade"
+  },
+  {
+    "text": "llm performance testing toolkit using k6, grafana, and influxdb for load testing and benchmarking openai-like inference endpoints with comprehensive metrics.",
+    "author": "periscope",
+    "title": "llm performance testing",
+    "company": "wizenheimer",
+    "url": "https://github.com/wizenheimer/periscope"
+  },
+  {
+    "text": "hypermerge - engineering management without the guesswork. data-driven insights and metrics for engineering teams to optimize performance and productivity.",
+    "author": "hypermerge",
+    "title": "engineering management platform",
+    "company": "wizenheimer",
+    "url": "https://github.com/wizenheimer/hypermerge"
+  },
+  {
+    "text": "b-tree based database implementation providing efficient storage and retrieval with support for range queries and transaction processing.",
+    "author": "luffy",
+    "title": "b-tree database engine",
+    "company": "wizenheimer",
+    "url": "https://github.com/wizenheimer/luffy"
+  },
+  {
+    "text": "concurrent implementation of mapreduce in go for distributed data processing. enables parallel processing of large datasets across multiple workers.",
+    "author": "mapreduce",
+    "title": "distributed computing framework",
+    "company": "wizenheimer",
+    "url": "https://github.com/wizenheimer/mapreduce"
+  },
+  {
+    "text": "streamline code reviews with rulesets - move fast, break nothing by automating code quality checks and enforcing development standards.",
+    "author": "rulesets",
+    "title": "code review automation",
+    "company": "wizenheimer",
+    "url": "https://github.com/wizenheimer/rulesets"
+  },
+  {
+    "text": "runtime for running distributed evaluations at scale. provides infrastructure for coordinating and executing large-scale evaluation workloads across multiple nodes.",
+    "author": "cyyrus-eval",
+    "title": "distributed evaluation runtime",
+    "company": "wizenheimer",
+    "url": "https://github.com/wizenheimer/cyyrus-eval"
+  },
+  {
+    "text": "open source email validator using cuckoo filter for high-performance email verification. provides scalable solution for validating email addresses with low false positive rates.",
+    "author": "bloombox",
+    "title": "email validation service",
+    "company": "wizenheimer",
+    "url": "https://github.com/wizenheimer/bloombox"
+  },
+  {
+    "text": "lightweight service for gpu monitoring providing real-time metrics, usage statistics, and performance insights for nvidia gpu-accelerated workloads.",
+    "author": "nv",
+    "title": "gpu monitoring service",
+    "company": "wizenheimer",
+    "url": "https://github.com/wizenheimer/nv"
+  },
+  {
+    "text": "accelerating micro private equity buyouts through automated deal sourcing, due diligence, and valuation modeling. built for speed and precision in the private equity workflow.",
+    "author": "arcadian",
+    "title": "private equity automation",
+    "company": "wizenheimer",
+    "url": "https://github.com/wizenheimer/arcadian"
+  },
+  {
+    "text": "incident management for scale-ups - move fast and break things safely with automated incident response, escalation, and post-mortem analysis.",
+    "author": "pulse",
+    "title": "incident management platform",
+    "company": "wizenheimer",
+    "url": "https://github.com/wizenheimer/pulse"
+  },
+  {
+    "text": "lisp-like programming language implementation in c with custom parser, evaluator, and garbage collector. educational project exploring language design principles.",
+    "author": "evie",
+    "title": "programming language interpreter",
+    "company": "wizenheimer",
+    "url": "https://github.com/wizenheimer/evie"
+  },
+  {
+    "text": "notchly transforms the underutilized notch area on macbook displays into a productivity hub inspired by iphone's dynamic island with elegant animations.",
+    "author": "Notchly",
+    "title": "macbook notch enhancement",
+    "company": "wizenheimer",
+    "url": "https://github.com/wizenheimer/Notchly"
+  },
+  {
+    "text": "adorable animated kitties for your dock - makes your dock the cutest place on your mac. transforms the underutilized dock area into a delightful productivity space.",
+    "author": "cupcake",
+    "title": "mac dock enhancement",
+    "company": "wizenheimer",
+    "url": "https://github.com/wizenheimer/cupcake"
+  },
+  {
+    "text": "yet another portfolio management app for tracking investments, analyzing performance, and making informed financial decisions with real-time market data.",
+    "author": "ledger",
+    "title": "portfolio management app",
+    "company": "wizenheimer",
+    "url": "https://github.com/wizenheimer/ledger"
+  },
+  {
+    "text": "yet another reminders app with intuitive interface, smart notifications, and seamless synchronization across devices for personal task management.",
+    "author": "reminder",
+    "title": "task reminder application",
+    "company": "wizenheimer",
+    "url": "https://github.com/wizenheimer/reminder"
+  },
+  {
+    "text": "engineering management without the guesswork - demo and landing page showcasing metrics-driven approach to managing engineering teams effectively.",
+    "author": "hypermerge.dev",
+    "title": "engineering management demo",
+    "company": "wizenheimer",
+    "url": "https://github.com/wizenheimer/hypermerge.dev"
+  }
+]

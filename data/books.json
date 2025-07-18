@@ -1,0 +1,387 @@
+[
+  {
+    "title": "the hard thing about hard things",
+    "author": "ben horowitz",
+    "description": "building a business when there are no easy answers",
+    "url": "https://www.amazon.com/dp/0062273205",
+    "category": "business"
+  },
+  {
+    "title": "zero to one",
+    "author": "peter thiel",
+    "description": "notes on startups, or how to build the future",
+    "url": "https://www.amazon.com/dp/0804139296",
+    "category": "business"
+  },
+  {
+    "title": "crossing the chasm",
+    "author": "geoffrey moore",
+    "description": "marketing and selling disruptive products to mainstream customers",
+    "url": "https://www.amazon.com/dp/0062292986",
+    "category": "business"
+  },
+  {
+    "title": "the innovator's dilemma",
+    "author": "clayton christensen",
+    "description": "when new technologies cause great firms to fail",
+    "url": "https://www.amazon.com/dp/1633691780",
+    "category": "business"
+  },
+  {
+    "title": "blitzscaling",
+    "author": "reid hoffman",
+    "description": "the lightning-fast path to building massively valuable companies",
+    "url": "https://www.amazon.com/dp/1524761419",
+    "category": "business"
+  },
+  {
+    "title": "venture deals",
+    "author": "brad feld & jason mendelson",
+    "description": "be smarter than your lawyer and venture capitalist",
+    "url": "https://www.amazon.com/dp/1119594820",
+    "category": "investing"
+  },
+  {
+    "title": "the mom test",
+    "author": "rob fitzpatrick",
+    "description": "how to talk to customers & learn if your business is a good idea",
+    "url": "https://www.amazon.com/dp/1492180742",
+    "category": "business"
+  },
+  {
+    "title": "hooked",
+    "author": "nir eyal",
+    "description": "how to build habit-forming products",
+    "url": "https://www.amazon.com/dp/1591847788",
+    "category": "product"
+  },
+  {
+    "title": "the lean startup",
+    "author": "eric ries",
+    "description": "how today's entrepreneurs use continuous innovation to create radically successful businesses",
+    "url": "https://www.amazon.com/dp/0307887898",
+    "category": "business"
+  },
+  {
+    "title": "thinking, fast and slow",
+    "author": "daniel kahneman",
+    "description": "a comprehensive guide to the mind's two systems of thinking",
+    "url": "https://www.amazon.com/dp/0374533555",
+    "category": "psychology"
+  },
+  {
+    "title": "the outsiders",
+    "author": "william thorndike",
+    "description": "eight unconventional ceos and their radically rational blueprint for success",
+    "url": "https://www.amazon.com/dp/1422162672",
+    "category": "business"
+  },
+  {
+    "title": "good to great",
+    "author": "jim collins",
+    "description": "why some companies make the leap... and others don't",
+    "url": "https://www.amazon.com/dp/0066620996",
+    "category": "business"
+  },
+  {
+    "title": "the subtle art of not giving a f*ck",
+    "author": "mark manson",
+    "description": "a counterintuitive approach to living a good life",
+    "url": "https://www.amazon.com/dp/0062457713",
+    "category": "self-help"
+  },
+  {
+    "title": "blue ocean strategy",
+    "author": "w. chan kim & renée mauborgne",
+    "description": "how to create uncontested market space and make competition irrelevant",
+    "url": "https://www.amazon.com/dp/1591396190",
+    "category": "strategy"
+  },
+  {
+    "title": "purple cow",
+    "author": "seth godin",
+    "description": "transform your business by being remarkable",
+    "url": "https://www.amazon.com/dp/1591843170",
+    "category": "marketing"
+  },
+  {
+    "title": "obviously awesome",
+    "author": "april dunford",
+    "description": "how to nail product positioning so customers get it, buy it, love it",
+    "url": "https://www.amazon.com/dp/1999023005",
+    "category": "marketing"
+  },
+  {
+    "title": "sales pitch",
+    "author": "april dunford",
+    "description": "how to craft a story to stand out and win",
+    "url": "https://www.aprildunford.com/books",
+    "category": "sales"
+  },
+  {
+    "title": "information rules",
+    "author": "carl shapiro & hal varian",
+    "description": "a strategic guide to the network economy",
+    "url": "https://www.amazon.com/dp/087584863X",
+    "category": "strategy"
+  },
+  {
+    "title": "actionable gamification",
+    "author": "yu-kai chou",
+    "description": "beyond points, badges, and leaderboards",
+    "url": "https://www.amazon.com/dp/1511744049",
+    "category": "product"
+  },
+  {
+    "title": "7 powers",
+    "author": "hamilton helmer",
+    "description": "the foundations of business strategy",
+    "url": "https://www.amazon.com/dp/0998116319",
+    "category": "strategy"
+  },
+  {
+    "title": "play bigger",
+    "author": "al ramadan, dave peterson, christopher lochhead & kevin maney",
+    "description": "how pirates, dreamers, and innovators create and dominate markets",
+    "url": "https://www.amazon.com/dp/0062407619",
+    "category": "strategy"
+  },
+  {
+    "title": "competition demystified",
+    "author": "bruce greenwald & judd kahn",
+    "description": "a radically simplified approach to business strategy",
+    "url": "https://www.amazon.com/dp/1591841801",
+    "category": "strategy"
+  },
+  {
+    "title": "running lean",
+    "author": "ash maurya",
+    "description": "iterate from plan a to a plan that works",
+    "url": "https://www.amazon.com/dp/1449305172",
+    "category": "business"
+  },
+  {
+    "title": "different",
+    "author": "youngme moon",
+    "description": "escaping the competitive herd",
+    "url": "https://www.amazon.com/dp/0307460916",
+    "category": "strategy"
+  },
+  {
+    "title": "demand-side sales",
+    "author": "bob moesta",
+    "description": "stop selling and help your customers make progress",
+    "url": "https://www.amazon.com/dp/1544509987",
+    "category": "sales"
+  },
+  {
+    "title": "the pyramid principle",
+    "author": "barbara minto",
+    "description": "logic and thinking in writing and problem solving",
+    "url": "https://www.amazon.com/dp/0273710516",
+    "category": "communication"
+  },
+  {
+    "title": "jobs to be done playbook",
+    "author": "jim kalbach",
+    "description": "align your markets, organization, and strategy around customer needs",
+    "url": "https://www.amazon.com/dp/1933820683",
+    "category": "product"
+  },
+  {
+    "title": "never split the difference",
+    "author": "chris voss",
+    "description": "negotiating as if your life depended on it",
+    "url": "https://www.amazon.com/dp/0062407805",
+    "category": "negotiation"
+  },
+  {
+    "title": "steve jobs",
+    "author": "walter isaacson",
+    "description": "the exclusive biography",
+    "url": "https://www.amazon.com/dp/1451648537",
+    "category": "biography"
+  },
+  {
+    "title": "elon musk",
+    "author": "ashlee vance",
+    "description": "tesla, spacex, and the quest for a fantastic future",
+    "url": "https://www.amazon.com/dp/0062301233",
+    "category": "biography"
+  },
+  {
+    "title": "no filter",
+    "author": "sarah frier",
+    "description": "the inside story of instagram",
+    "url": "https://www.amazon.com/dp/1982126809",
+    "category": "founding-story"
+  },
+  {
+    "title": "how to turn down a billion dollars",
+    "author": "billy gallagher",
+    "description": "the snapchat story",
+    "url": "https://www.amazon.com/dp/1250108616",
+    "category": "founding-story"
+  },
+  {
+    "title": "the everything store",
+    "author": "brad stone",
+    "description": "jeff bezos and the age of amazon",
+    "url": "https://www.amazon.com/dp/0316219282",
+    "category": "founding-story"
+  },
+  {
+    "title": "the upstarts",
+    "author": "brad stone",
+    "description": "how uber, airbnb, and the killer companies of the new silicon valley are changing the world",
+    "url": "https://www.amazon.com/dp/0316554561",
+    "category": "founding-story"
+  },
+  {
+    "title": "bad blood",
+    "author": "john carreyrou",
+    "description": "secrets and lies in a silicon valley startup",
+    "url": "https://www.amazon.com/dp/152473165X",
+    "category": "founding-story"
+  },
+  {
+    "title": "founders at work",
+    "author": "jessica livingston",
+    "description": "stories of startups' early days",
+    "url": "https://www.amazon.com/dp/1430210788",
+    "category": "founding-story"
+  },
+  {
+    "title": "competitive strategy",
+    "author": "michael porter",
+    "description": "techniques for analyzing industries and competitors",
+    "url": "https://www.amazon.com/dp/0684841487",
+    "category": "strategy"
+  },
+  {
+    "title": "competitive advantage",
+    "author": "michael porter",
+    "description": "creating and sustaining superior performance",
+    "url": "https://www.amazon.com/dp/0684841460",
+    "category": "strategy"
+  },
+  {
+    "title": "the 48 laws of power",
+    "author": "robert greene",
+    "description": "the definitive manual for anyone interested in gaining, observing, or defending against ultimate control",
+    "url": "https://www.amazon.com/dp/0140280197",
+    "category": "strategy"
+  },
+  {
+    "title": "hatching twitter",
+    "author": "nick bilton",
+    "description": "a true story of money, power, friendship, and betrayal",
+    "url": "https://www.amazon.com/dp/1591847087",
+    "category": "founding-story"
+  },
+  {
+    "title": "in the plex",
+    "author": "steven levy",
+    "description": "how google thinks, works, and shapes our lives",
+    "url": "https://www.amazon.com/dp/1416596585",
+    "category": "founding-story"
+  },
+  {
+    "title": "the facebook effect",
+    "author": "david kirkpatrick",
+    "description": "the inside story of the company that is connecting the world",
+    "url": "https://www.amazon.com/dp/1439102120",
+    "category": "founding-story"
+  },
+  {
+    "title": "disrupted",
+    "author": "dan lyons",
+    "description": "my misadventure in the start-up bubble",
+    "url": "https://www.amazon.com/dp/0316306088",
+    "category": "startup-culture"
+  },
+  {
+    "title": "the unicorn project",
+    "author": "gene kim",
+    "description": "a novel about developers, digital disruption, and thriving in the age of data",
+    "url": "https://www.amazon.com/dp/1942788762",
+    "category": "technology"
+  },
+  {
+    "title": "the phoenix project",
+    "author": "gene kim, kevin behr & george spafford",
+    "description": "a novel about it, devops, and helping your business win",
+    "url": "https://www.amazon.com/dp/0988262592",
+    "category": "technology"
+  },
+  {
+    "title": "the tipping point",
+    "author": "malcolm gladwell",
+    "description": "how little things can make a big difference",
+    "url": "https://www.amazon.com/dp/0316346624",
+    "category": "psychology"
+  },
+  {
+    "title": "outliers",
+    "author": "malcolm gladwell",
+    "description": "the story of success",
+    "url": "https://www.amazon.com/dp/0316017930",
+    "category": "psychology"
+  },
+  {
+    "title": "blink",
+    "author": "malcolm gladwell",
+    "description": "the power of thinking without thinking",
+    "url": "https://www.amazon.com/dp/0316010669",
+    "category": "psychology"
+  },
+  {
+    "title": "inspired",
+    "author": "marty cagan",
+    "description": "how to create tech products customers love",
+    "url": "https://www.amazon.com/dp/1119387507",
+    "category": "product"
+  },
+  {
+    "title": "empowered",
+    "author": "marty cagan & chris jones",
+    "description": "ordinary people, extraordinary products",
+    "url": "https://www.amazon.com/dp/1119691281",
+    "category": "product"
+  },
+  {
+    "title": "the design of everyday things",
+    "author": "don norman",
+    "description": "revised and expanded edition",
+    "url": "https://www.amazon.com/dp/0465050654",
+    "category": "design"
+  },
+  {
+    "title": "rework",
+    "author": "jason fried & david heinemeier hansson",
+    "description": "change the way you work forever",
+    "url": "https://www.amazon.com/dp/0307463745",
+    "category": "business"
+  },
+  {
+    "title": "remote",
+    "author": "jason fried & david heinemeier hansson",
+    "description": "office not required",
+    "url": "https://www.amazon.com/dp/0804137501",
+    "category": "business"
+  },
+  {
+    "title": "it doesn't have to be crazy at work",
+    "author": "jason fried & david heinemeier hansson",
+    "description": "rethinking work culture",
+    "url": "https://www.amazon.com/dp/0062874780",
+    "category": "business"
+  },
+  {
+    "title": "the e-myth revisited",
+    "author": "michael e. gerber",
+    "description": "why most small businesses don't work and what to do about it",
+    "url": "https://www.amazon.com/dp/0887307280",
+    "category": "business"
+  }
+]
