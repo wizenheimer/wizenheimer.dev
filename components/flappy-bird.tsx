@@ -63,8 +63,25 @@ export const FlappyBird: React.FC<FlappyBirdProps> = ({
   const [birdVelocity, setBirdVelocity] = useState(0);
   const [pipes, setPipes] = useState<Pipe[]>([]);
   const [score, setScore] = useState(0);
+  const [highScore, setHighScore] = useState(0);
   const [gameOver, setGameOver] = useState(false);
   const [gameStarted, setGameStarted] = useState(false);
+
+  // Load high score from localStorage on component mount
+  useEffect(() => {
+    const savedHighScore = localStorage.getItem('flappy-bird-high-score');
+    if (savedHighScore) {
+      setHighScore(parseInt(savedHighScore, 10));
+    }
+  }, []);
+
+  // Save high score to localStorage when score changes
+  useEffect(() => {
+    if (score > highScore) {
+      setHighScore(score);
+      localStorage.setItem('flappy-bird-high-score', score.toString());
+    }
+  }, [score, highScore]);
 
   const generatePipe = useCallback(() => {
     const minHeight = 50;
@@ -371,7 +388,8 @@ export const FlappyBird: React.FC<FlappyBirdProps> = ({
 
               {/* Score */}
               <div className="mt-2 font-mono text-sm text-gray-800 dark:text-gray-200">
-                score: {score}
+                <div>score: {score}</div>
+                <div>best: {highScore}</div>
               </div>
             </div>
           </div>

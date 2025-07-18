@@ -57,10 +57,27 @@ export const SnakeGame: React.FC<SnakeGameProps> = ({
   const [direction, setDirection] = useState<Position>({ x: 1, y: 0 });
   const [food, setFood] = useState<Position>({ x: 15, y: 10 });
   const [score, setScore] = useState(0);
+  const [highScore, setHighScore] = useState(0);
   const [gameOver, setGameOver] = useState(false);
 
   const [gameStarted, setGameStarted] = useState(false);
   const [nextDirection, setNextDirection] = useState<Position>({ x: 1, y: 0 });
+
+  // Load high score from localStorage on component mount
+  useEffect(() => {
+    const savedHighScore = localStorage.getItem('snake-high-score');
+    if (savedHighScore) {
+      setHighScore(parseInt(savedHighScore, 10));
+    }
+  }, []);
+
+  // Save high score to localStorage when score changes
+  useEffect(() => {
+    if (score > highScore) {
+      setHighScore(score);
+      localStorage.setItem('snake-high-score', score.toString());
+    }
+  }, [score, highScore]);
 
   // Move the keyboard shortcuts hook here, before any returns
   useKeyboardShortcut({
@@ -382,7 +399,8 @@ export const SnakeGame: React.FC<SnakeGameProps> = ({
 
               {/* Score */}
               <div className="mt-2 font-mono text-sm text-gray-800 dark:text-gray-200">
-                score: {score}
+                <div>score: {score}</div>
+                <div>best: {highScore}</div>
               </div>
             </div>
           </div>
