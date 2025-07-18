@@ -294,7 +294,6 @@ export const FlappyBird: React.FC<FlappyBirdProps> = ({
                 style={{
                   width: gameWidth,
                   height: gameHeight,
-                  backgroundColor: "var(--color-background-light)",
                 }}
                 onClick={handleGameClick}
               >
