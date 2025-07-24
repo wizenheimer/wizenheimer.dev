@@ -8,7 +8,7 @@ export const Hero = () => {
       <h1 className="text-3xl font-bold mb-4 cursor-default h-[80px] sm:h-auto">
         <span className="inline-block">
           <ScrambleText
-            text="nothing ventured, nothing gained"
+            text="tl;dr"
             className="whitespace-pre-wrap md:whitespace-nowrap"
           />
         </span>

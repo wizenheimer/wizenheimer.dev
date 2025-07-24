@@ -106,9 +106,7 @@ export const About = () => {
   return (
     <div className="py-10">
       <div className="md:hidden">
-        <h1 className="text-lg font-bold mb-4">
-          nothing ventured, nothing gained
-        </h1>
+        <h1 className="text-lg font-bold mb-4">tl;dr</h1>
       </div>
       <div className="hidden md:block">
         <DisintegratingText className="text-lg font-bold mb-4">
