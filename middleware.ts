@@ -50,7 +50,7 @@ ${heroDescription}
 CURRENTLY
 ---------
 * software engineer at couchbase (ai r&d core)
-* building cruso - an ai assistant you can email
+* building subsignal - helping VCs track and reconnect with startups they passed on
 
 LINKS
 -----

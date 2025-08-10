@@ -90,7 +90,7 @@ const PREV_ITEMS = [
 ];
 
 const NOW_ITEMS = [
-  "currently i'm heads down building cruso - an ai assistant you can email",
+  "currently i'm heads down building subsignal - helping VCs track and reconnect with startups they passed on",
   "it's part utility, part ubiquity, and fully an excuse to avoid building a UI",
   "i also work at Couchbase, owning all things model serving and inference",
   "shipped 3 out of 5 major undertakings in the last 2 years - from unstructured data service to model serving and inference",
