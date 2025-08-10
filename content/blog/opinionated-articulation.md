@@ -13,15 +13,19 @@ tags:
 published: true
 ---
 
-From far away, every venture-scale problem looks whole. You see well-defined market size. You see companies neatly segmented into categories. You see an entire industry doing something the wrong way and say to yourself: _this sucks. let's build a business around it._
+From a distance, every venture-scale problem looks whole.
 
-And you're probably right. Things, at times, do indeed suck.
+Massive. Inevitable. Obvious. Clean enough to draw on a slide.
 
-But "this sucks" isn't a problem statement — it's a feeling and a placeholder for frustration.
+You can point to the market size. The competitor grid. The entire industry doing something the wrong way and think: _this sucks — let’s build a business around it._
 
-You can't test it. You can't measure it. You can't build anything meaningful on top of it.
+And you’re probably right. At times, things indeed suck.
 
-Having chased a few 0-to-1 runs, I've started to notice a clear pattern that separates companies destined for wandering from those built for winning. It comes down to what I call opinionated articulation — the founder's ability to describe their customer's problem so specifically, so concretely, that it becomes impossible to conflate with anything else.
+But _“this sucks”_ isn’t a problem statement — it’s a feeling, a placeholder for frustration.
+
+You can’t test it. You can’t measure it. You can’t build anything meaningful on top of it.
+
+Having chased a few 0-to-1 runs, I’ve started to notice a clear pattern that separates companies destined for wandering from those built for winning. It comes down to what I call opinionated articulation — the founder’s ability to describe their customer’s problem so specifically, so concretely, that it becomes impossible to conflate with anything else.
 
 ## The Billboard Test: Why Most Startup Problems Are Worthless
 
