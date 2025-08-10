@@ -1,6 +1,6 @@
 ---
-title: "The Billboard Test: Why Vague Problems Kill Startups"
-description: "How to distinguish between companies destined for wandering and those built for winning through opinionated articulation of customer problems."
+title: "Swimming Naked: Why Safety Nets Kill Startups"
+description: "How evidence-seeking machines beat assumption-hiding wanderers in the race to product-market fit"
 date: "2025-08-10"
 tags:
   [
@@ -23,7 +23,7 @@ You can't test it. You can't measure it. You can't build anything meaningful on 
 
 Having chased a few 0-to-1 runs, I've started to notice a clear pattern that separates companies destined for wandering from those built for winning. It comes down to what I call opinionated articulation — the founder's ability to describe their customer's problem so specifically, so concretely, that it becomes impossible to conflate with anything else.
 
-## The Billboard Test
+## The Billboard Test: Why Most Startup Problems Are Worthless
 
 To understand why this matters, imagine your problem statement plastered across a giant highway billboard. Better yet, pick one of Silicon Valley's favorite catchphrases:
 
@@ -73,7 +73,7 @@ Compare this to "productivity tools for engineering teams." How do you even test
 
 Specificity doesn't just make markets more accessible — it makes them more falsifiable. And in early-stage building, the ability to prove yourself wrong quickly is the most valuable asset you can have.
 
-## Swimming Naked
+## How to Win Small Before You Win Big
 
 On the flipside, most early-stage teams resist opinionated articulation because it takes away their optionality.
 
@@ -107,7 +107,7 @@ You can't test a vague, agreeable complaint. You can only test a sharp, risky op
 
 And real opinions only come from someone who's been in the trenches.
 
-## Structure of Opinionated Articulation
+## The Anatomy of Problems That Actually Matter
 
 When you start getting specific about articulation, you realize there's a recurring pattern. They tend to hit four key dimensions that turn vague complaints into hypotheses you can actually test:
 
@@ -140,7 +140,7 @@ Put together, the structure looks like:
 
 **Example:** Independent coffee shop owners in cities under 500k population spend three hours every Monday morning manually counting and reconciling inventory sheets, causing them to over-order perishables and lose ~10% of monthly revenue.
 
-## Markets Are Entered Through Doors, Not Floodgates
+## Markets Have Doors, Not Floodgates
 
 Here's something most founders don't realize: you don't grow by starting broad and hoping to capture everything. You grow by starting narrow, winning completely, then expanding from a position of strength. Every big company started opinionated and narrow. They won a wedge and expanded from there.
 
@@ -152,7 +152,7 @@ When you walk into any room with opinionated articulation, you're demonstrating 
 2. **You understand the pain intimately**: You can describe the problem in the customer's own words, with their specific context and constraints.
 3. **You have a path to revenue**: You know exactly whose door to knock on first, and you have evidence they'll open it.
 
-## The Empathy Transfer
+## Deploying Empathy: The Magic of Being Seen
 
 When you can describe someone’s problem better than they can, you win their trust - they can identify you as one of their own, and there's an immediate empathy transfer.
 
@@ -164,7 +164,7 @@ And here’s the real unlock: this “empathy transfer” compresses the trust t
 
 Opinionated Articulation turns strangers into allies, and allies into champions.
 
-## The Real Safety Net
+## Why Sharp Edges Beat Soft Landings
 
 In the early days of a startup, your single most valuable asset isn't your funding, your network, or even your product — it's your ability to articulate the problem you're solving. The question isn't whether you have a good idea. The question is whether you can articulate your idea precisely enough that the right people recognize their lives in your description.
 
