@@ -96,10 +96,8 @@ const NOW_ITEMS = [
   "shipped 3 out of 5 major undertakings in the last 2 years - from unstructured data service to model serving and inference",
   "outside of that, i'm trying to learn about distribution - how to get people to care",
   "other than that, i'm building my writing muscle, reading more consistently, and trying not to burn out",
-  "somehow, i've managed to gain a rep - someone who is intense, takes extreme ownership, and holds the bar high (and then raises it slightly out of reach)",
-  "one who actively seeks conflicts. ask a lot of tough questions, and move like it's your name on the cap table",
-  "not everyone loves that. but things ship, and the bar stays high. maybe that's the whole job",
-  "currently, i'm trying to get better at the less-talked-about half of the job - managing up, and collaborating wide",
+  "somehow, i've managed to gain a rep - someone who takes extreme ownership, and holds the bar high (and then raises it slightly out of reach)",
+  "currently, i'm trying to get better at the less-talked-about half of the job - managing up, and bringing everyone along",
 ];
 
 export const About = () => {
