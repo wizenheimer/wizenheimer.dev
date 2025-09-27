@@ -97,6 +97,8 @@ const NOW_ITEMS = [
   "outside of that, i'm trying to learn about distribution - how to get people to care",
   "other than that, i'm building my writing muscle, reading more consistently, and trying not to burn out",
   "somehow, i've managed to gain a rep - someone who takes extreme ownership, and holds the bar high (and then raises it slightly out of reach)",
+  "i'm a big believer of brute force and have a knack for figuring things out. especially when there are no playbooks, the specs are missing, and you're on your own.",
+  "i've built my way through uncertainty more times than i can count. maybe it's the engineer's curse - i can't walk away from broken things.",
   "currently, i'm trying to get better at the less-talked-about half of the job - managing up, and bringing everyone along",
 ];
 

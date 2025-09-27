@@ -17,15 +17,15 @@ From a distance, every venture-scale problem looks whole.
 
 Massive. Inevitable. Obvious. Clean enough to draw on a slide.
 
-You can point to the market size. The competitor grid. The entire industry doing something the wrong way and think: _this sucks — let’s build a business around it._
+You can point to the market size. The competitor grid. The entire industry doing something the wrong way and think: _this sucks—let's build a business around it._
 
 And you’re probably right. At times, things indeed suck.
 
-But _“this sucks”_ isn’t a problem statement — it’s a feeling, a placeholder for frustration.
+But _"this sucks"_ isn't a problem statement—it's a feeling, a placeholder for frustration.
 
 You can’t test it. You can’t measure it. You can’t build anything meaningful on top of it.
 
-Having chased a few 0-to-1 runs, I’ve started to notice a clear pattern that separates companies destined for wandering from those built for winning. It comes down to what I call opinionated articulation — the founder’s ability to describe their customer’s problem so specifically, so concretely, that it becomes impossible to conflate with anything else.
+Having chased a few 0-to-1 runs, I've started to notice a clear pattern that separates companies destined for wandering from those built for winning. It comes down to what I call opinionated articulation—the founder's ability to describe their customer's problem so specifically, so concretely, that it becomes impossible to conflate with anything else.
 
 ## The Billboard Test: Why Most Startup Problems Are Worthless
 
@@ -75,7 +75,7 @@ Most importantly: you can actually get started. And you can fail fast. When your
 
 Compare this to "productivity tools for engineering teams." How do you even test that? You could spend months talking to random engineers across random companies and still have no clear signal. The evidence gets muddled because the hypothesis was never sharp enough to begin with.
 
-Specificity doesn't just make markets more accessible — it makes them more falsifiable. And in early-stage building, the ability to prove yourself wrong quickly is the most valuable asset you can have.
+Specificity doesn't just make markets more accessible—it makes them more falsifiable. And in early-stage building, the ability to prove yourself wrong quickly is the most valuable asset you can have.
 
 ## How to Win Small Before You Win Big
 
@@ -95,7 +95,7 @@ Vagueness doesn't hedge your risk. It just delays the moment you find out if you
 
 ## Strong Opinions, Loosely Held
 
-Here's what most founders don't realize: the key isn't to have the right opinions — it's to have opinions at all.
+Here's what most founders don't realize: the key isn't to have the right opinions—it's to have opinions at all.
 
 Category-level gripes are cheap: "Payments are slow." "Hiring is broken." These are impossible to dispute but equally impossible to act on.
 
@@ -158,7 +158,7 @@ When you walk into any room with opinionated articulation, you're demonstrating 
 
 ## Deploying Empathy: The Magic of Being Seen
 
-When you can describe someone’s problem better than they can, you win their trust - they can identify you as one of their own, and there's an immediate empathy transfer.
+When you can describe someone's problem better than they can, you win their trust—they can identify you as one of their own, and there's an immediate empathy transfer.
 
 Most people live with their problems in a fog. They feel the symptoms, but the boundaries are fuzzy. They know they’re frustrated, but they can’t fully articulate why.
 
@@ -170,7 +170,7 @@ Opinionated Articulation turns strangers into allies, and allies into champions.
 
 ## Why Sharp Edges Beat Soft Landings
 
-In the early days of a startup, your single most valuable asset isn't your funding, your network, or even your product — it's your ability to articulate the problem you're solving. The question isn't whether you have a good idea. The question is whether you can articulate your idea precisely enough that the right people recognize their lives in your description.
+In the early days of a startup, your single most valuable asset isn't your funding, your network, or even your product—it's your ability to articulate the problem you're solving. The question isn't whether you have a good idea. The question is whether you can articulate your idea precisely enough that the right people recognize their lives in your description.
 
 Opinionated articulation might feel like swimming without a safety net. But in early-stage building, safety nets are an illusion anyway.
 
