@@ -34,8 +34,8 @@ export default function Navigation() {
       },
       {
         key: "t",
-        handler: () => window.open(siteConfig.twitterUrl, "_blank"),
-        description: "Open Twitter",
+        handler: () => window.open("https://www.slideshare.net/xnayankumar", "_blank"),
+        description: "Open Teardown",
       },
       {
         key: "e",
@@ -125,12 +125,12 @@ export default function Navigation() {
                 [l] linkedin
               </a>
               <a
-                href={siteConfig.twitterUrl}
+                href="https://www.slideshare.net/xnayankumar"
                 className="p-2 rounded-lg border border-gray-200 dark:border-gray-800 hover:border-gray-300 dark:hover:border-gray-600 [background-color:var(--color-background-light)] dark:[background-color:var(--color-background-dark)] inline-flex items-center text-xs"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                [t] twitter
+                [t] teardown
               </a>
               <a
                 href={`mailto:${siteConfig.email}`}
@@ -184,13 +184,13 @@ export default function Navigation() {
                 [l] linkedin
               </a>
               <a
-                href={siteConfig.twitterUrl}
+                href="https://www.slideshare.net/xnayankumar"
                 className="block p-3 rounded-lg border border-gray-200 dark:border-gray-800 hover:border-gray-300 dark:hover:border-gray-600 [background-color:var(--color-background-light)] dark:[background-color:var(--color-background-dark)] text-sm"
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() => setMobileMenuOpen(false)}
               >
-                [t] twitter
+                [t] teardown
               </a>
               <a
                 href={`mailto:${siteConfig.email}`}
