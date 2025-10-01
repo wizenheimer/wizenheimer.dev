@@ -1,5 +1,5 @@
 ---
-title: "Swimming Naked: Why Safety Nets Kill Startups"
+title: "Wide Stories are Weak Stories"
 description: "How evidence-seeking machines beat assumption-hiding wanderers in the race to product-market fit"
 date: "2025-08-10"
 tags:
